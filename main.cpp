@@ -57,7 +57,7 @@ string ToBin(string hex)
 }
 
 
-/*string ToHex(string Bin)
+string ToHex(string Bin)
 {
     string k="";
     int i=0;
@@ -108,7 +108,7 @@ string ToBin(string hex)
 
           // return converted_binary;
 
-}*/
+}
 
 string permutation (string x, int* arr, int n)
 {
